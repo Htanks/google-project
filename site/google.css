@@ -41,8 +41,9 @@ nav a:hover {
 }
 
 .colorful-text {
+    font-weight: bold;
     display: inline-block;
-    font-size: 50px;
+    font-size: 75px;
     margin-top: 250px;
 }
 
@@ -56,9 +57,9 @@ nav a:hover {
 input[type="text"] {
     padding: 10px;
     margin: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: 1px solid #ddd;
-    width: 300px;
+    width: 400px;
 }
 
 input[type="submit"] {
